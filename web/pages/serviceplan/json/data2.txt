@@ -1,0 +1,20 @@
+{
+    "aaData": [
+        {
+            "id": "BigDataCluster1",
+            "name": "Up",
+            "desc": "15/02/02 10:30:02",
+            "time": "10:30:02",
+			"RStudio":"http://192.168.1.11/RStudio",
+			"Openlava":"http://192.168.1.11/Openlava"
+        },
+        {
+            "id": "STAT2101",
+            "name": "Down",
+            "desc": "15/02/02 10:30:02",
+            "time": "10:30:02",
+			"RStudio":"http://192.168.1.11/RStudio",
+			"Openlava":"http://192.168.1.11/Openlava"
+        }
+    ]
+}

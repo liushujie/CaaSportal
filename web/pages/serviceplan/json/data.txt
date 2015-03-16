@@ -1,0 +1,39 @@
+{
+    "aaData": [
+        [
+            "1",
+            "BE",
+            "1000",
+            "Bruxelles",
+            "Bruxelles-Capitale"
+        ],
+        [
+            "2",
+            "BE",
+            "1005",
+            "Conseil Region Bruxelles-Capitale",
+            "Bruxelles-Capitale"
+        ],
+        [
+            "3",
+            "BE",
+            "1006",
+            "Raad Vlaamse Gemeenschapscommissie",
+            "Bruxelles-Capitale"
+        ],
+        [
+            "4",
+            "BE",
+            "1007",
+            "Ass. Commiss. Communau. française",
+            "Bruxelles-Capitale"
+        ],
+        [
+            "100",
+            "BE",
+            "1700",
+            "Dilbeek Sint-Ulriks-Kapelle",
+            "Vlaanderen"
+        ]
+    ]
+}

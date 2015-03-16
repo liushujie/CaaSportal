@@ -1,0 +1,21 @@
+
+.modal-caas-footer {
+    padding: 15px;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+}
+.modal-caas-footer .btn + .btn {
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+.btn,
+.btn.caas
+{
+    text-align: center;
+    vertical-align: middle;
+    width: 70px;
+}
+
+.caas-warning{
+    border: 1px solid red !important;
+}
